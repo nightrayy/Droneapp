@@ -1,0 +1,17 @@
+Addrress: 00:12:1C - Firma: PARROT SA
+Addrress: 0C:55:21 - Firma: Axiros GmbH
+Addrress: 00:26:7E - Firma: Parrot SA
+Addrress: 00:12:1C - Firma: PARROT S.A.
+Addrress: 00:26:7E - Firma: Parrot SA
+Addrress: 90:03:B7 - Firma: PARROT
+Addrress: 60:60:1F - Firma: SZ DJI TECHNOLOGY CO.,LTD
+Addrress: 00:13:8B - Firma: Phantom Technologies
+Addrress: D8:96:85 - Firma: GoPro
+Addrress: 00:0D:D4 - Firma: Symantec Corporation 
+Addrress: 00:22:A1 - Firma: Huawei Symantec Technologies Co.,Ltd.
+Addrress: 00:A0:65 - Firma: Symantec Corporation
+Addrress: 00:0D:D4 - Firma: Symantec Corporation
+Addrress: 00:22:A1 - Firma: Huawei Symantec Technologies Co.,Ltd.
+Addrress: 00:A0:65 - Firma: Symantec Corporation
+Addrress: 48:BE:2D - Firma: Symanitron
+Addrress: E4:12:18 - Firma: XIRO_XPLORER
